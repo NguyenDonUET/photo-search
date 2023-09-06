@@ -1,5 +1,7 @@
 ## PHOTO SEARCH
 
+![demo](./public/photo-search.png)
+
 #### Features
 
 ##### 1. **Search Image by Keyword:**
