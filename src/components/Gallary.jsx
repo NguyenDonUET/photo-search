@@ -23,7 +23,7 @@ export default function Gallary() {
     }
     if (isError) {
         return (
-            <div className="image-container">
+            <div className="images-container">
                 <h4>Error {error.message}...</h4>
             </div>
         );
